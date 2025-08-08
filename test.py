@@ -1,0 +1,1 @@
+print("Hello Ritik! Everything's working fine. ✅")
